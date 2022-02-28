@@ -1,2 +1,3 @@
-# Ola Mundo
- Pasta criada como primeiro repositório versionado.
+# Olá, Mundo
+Pasta criada como primeiro repositório versionado.
+Repositório criado durante aula.
